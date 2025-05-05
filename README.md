@@ -4,7 +4,7 @@
 
 # Assessing the Creativity of LLMs in Proposing Novel Solutions to Mathematical Problems
 
-[[paper](./assets/CreativeMath_paper.pdf)] [[poster](./assets/CreativeMath_poster.pdf)] [[slides](./assets/CreativeMath_slides.pdf)]
+[[paper](./assets/CreativeMath_paper.pdf)] [[poster](./assets/CreativeMath_poster.pdf)] [[slides](./assets/CreativeMath_slides.pdf)] [[DeepWiki](https://deepwiki.com/JunyiYe/CreativeMath)]
 
 ![](./assets/figures/CreativeMath.png)
 
